@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.InventoryManagement" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/primary</item>
+        <item name="colorAccent">@color/primary</item>
+    </style>
+</resources>
